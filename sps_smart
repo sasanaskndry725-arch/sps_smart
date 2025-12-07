@@ -1,0 +1,10 @@
+sps_smart/
+├─ package.json
+├─ vite.config.js
+├─ index.html
+├─ .env.example
+├─ README.md
+└─ src/
+   ├─ main.jsx
+   ├─ App.jsx
+   └─ styles.css
